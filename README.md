@@ -13,5 +13,5 @@ It is forbidden to forward and use the content without permission!
 Anyi Li
 ```
 
-## Outline
+## Contents
 - The interpretability of Machine Learning <https://github.com/Openviewer/interpretability-literature>
