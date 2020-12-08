@@ -14,4 +14,5 @@ Anyi Li
 ```
 
 ## Contents
-- The interpretability of Machine Learning <https://github.com/Openviewer/interpretability-literature>
+- *The interpretability of Machine Learning* <https://github.com/Openviewer/interpretability-literature>
+- *Stanford Machine Learning Cheatsheet* <https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning>
