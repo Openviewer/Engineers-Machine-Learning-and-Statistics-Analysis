@@ -1,5 +1,5 @@
 # Engineers-Machine-Learning-and-Statistics-Analysis
-Objective is to explore the vision of Engineers in the field of machine learning and statistic analysis.
+The Objective is to explore the vision of Engineers in the field of machine learning and statistic analysis.
 
 The name of this book initially called ***Engineers: Machine Learning and Statistics Analysis***
 
@@ -14,6 +14,21 @@ Anyi Li
 ```
 
 ## Contents
+- **Preface**
+- **The Prospect of Machine Learning and Statistics(MLS) for Engineering**
+- **The Relationship between MLSs**
+  - The Difference
+  - The Similarity
+- **The Real Application of MLS in Engineering**
+  - Machine Learning
+    - Situation#1
+    - Situation#2
+  - Statistics
+    - Situation#1
+    - Situation#2
+
+
+## Materials
 - [The interpretability of Machine Learning](https://github.com/Openviewer/interpretability-literature)
 - [Stanford Machine Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 - [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/#MultipleKernels)
