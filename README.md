@@ -27,6 +27,9 @@ Anyi Li
     - Situation#1
     - Situation#2
 
+## Preface
+In this online book, we mainly focus on the **APPLICATION of Machine Leanring and Statistics(MLS) on the subject of Eningeering**. It can help lots of engineers or researchers who have no strong background with MLS to use these useful information correctly and effectively as much as we can. It is worth noting that we **do not** encourage people to just learn how to use these tools or packages but to understand profoundly why you need them to promote the success of your experiment.
+
 
 ## Materials
 - [The interpretability of Machine Learning](https://github.com/Openviewer/interpretability-literature)
